@@ -1,0 +1,21 @@
+img {
+    object-fit: contain !important;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.product {
+    display: flex;
+    align-items: center;
+    width: 70%;
+}
+
+.buttons {
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+}
